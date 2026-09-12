@@ -1,8 +1,8 @@
 # Restaurant data analysis 
-##overview
-###Exploratory data analysis on restaurant performance, ratings and features.
+## overview
+this project performs an end-to-end Exploratory data analysis (EDA) on restaurant industry performance. It evaluates key factors like Customer ratings, geographical distribution, price tires, and service options. The insights help identify trends that drive restaurant, popularity, customer engagement, and revenue potential.
 ## Key analysis 
-### 
+
 1. Top cuisines analysis
 2. City wise analysis
 3. Price range distribution
@@ -13,4 +13,4 @@
 8. Votes by rating category 
 
 ## Tech stack 
-### Python, Pandas, Jupyter 
+ Python, Pandas, Jupyter 
